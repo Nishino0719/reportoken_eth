@@ -1,2 +1,2 @@
 # reportoken_eth
-repotokenのスマートコントラクト用のレポジトリー
+repotokenのスマートコントラクト用のレポジトリーです。
